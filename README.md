@@ -1,5 +1,5 @@
 # MECH105-Algorithms
-This repository holds all the algorithms I made in my time in MECH105 numerical methods.
+These are the three algorithms I made in MECH105 numerical methods in my freshman year.
 ## Algorithms
 1. False Position - It used the false position method to find the roots of an equation.
 3. Linear Algebra - It used LU decomposition to solve systems.
